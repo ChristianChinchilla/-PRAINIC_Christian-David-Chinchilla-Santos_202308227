@@ -1,2 +1,5 @@
 # -PRAINIC_Christian-David-Chinchilla-Santos_202308227
-Practicas Iniciales , su nombre, carné, periodo (1S o 2S) y el año
+Practicas Iniciales
+Christian David Chinchilla Santos
+202308227
+1S 2025
