@@ -89,7 +89,7 @@
 
 ---
 ## Link del Video de la limpieza en Youtube:
-[text](https://www.youtube.com/watch?v=9yu7JaOW0l0)
+[Video De Introduccion Y Limpieza](https://www.youtube.com/watch?v=9yu7JaOW0l0)
 
 
 
