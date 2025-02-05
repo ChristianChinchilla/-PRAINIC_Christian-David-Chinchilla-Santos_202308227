@@ -84,10 +84,14 @@
 
 ---
 
-### 📌 **Autor:** [Tu Nombre o Empresa]  
-### 📌 **Versión:** 1.0  
-### 📌 **Fecha de Creación:** [Fecha]  
+### 📌 **Autor:** [Christian David Chinchilla Santos] 
+### 📌 **Fecha de Creación:** [04/02/2025]  
 
 ---
+## Link del Video de la limpieza en Youtube:
+[text](https://www.youtube.com/watch?v=9yu7JaOW0l0)
 
+
+
+---
 Este manual proporciona una guía completa para la limpieza y mantenimiento de la **Dell Latitude 7480**, asegurando un mejor rendimiento y mayor durabilidad del equipo. 🚀💻
