@@ -4,7 +4,7 @@
 
 **Configuración de Redes:** Una guía práctica sobre cómo establecer y administrar redes alámbricas e inalámbricas en Windows y Linux, cubriendo los conceptos clave y su aplicación en distintos escenarios.
 
-Cada video contiene explicaciones paso a paso, ejemplos prácticos y soluciones a errores comunes, para que puedas aplicar estos conocimientos en diversos entornos.
+Cada video contiene explicaciones paso a paso, ejemplos prácticos y soluciones a errores comunes.
 
 **Accede a los videos aquí:**
 [Video 1: https://youtu.be/q_Xcb7RinqA](#)
