@@ -83,6 +83,4 @@ sudo apt install apache2  # Instala el servidor Apache2
 
 Ubuntu es una excelente alternativa a Windows, permitiendo un control avanzado del sistema y facilitando el trabajo en entornos de desarrollo y servidores.
 
-## Demostración 
-![Ejemplo](C:/Usuarios/Admin/Descargas/ImagenUbuntu.jpeg)
 
